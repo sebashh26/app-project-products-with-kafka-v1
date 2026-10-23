@@ -1,0 +1,9 @@
+[submodule "app-project-products-order-producer-with-kafka-v1"]
+	path = app-project-products-order-producer-with-kafka-v1
+	url = https://github.com/sebashh26/app-project-products-order-producer-with-kafka-v1.git
+[submodule "app-project-products-stock-consumer-with-kafka-v1"]
+	path = app-project-products-stock-consumer-with-kafka-v1
+	url = https://github.com/sebashh26/app-project-products-stock-consumer-with-kafka-v1
+[submodule "app-project-products-transporter-consumer-with-kafka-v1"]
+	path = app-project-products-transporter-consumer-with-kafka-v1
+	url = https://github.com/sebashh26/app-project-products-transporter-consumer-with-kafka-v1
