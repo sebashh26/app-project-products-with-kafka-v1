@@ -49,4 +49,6 @@ Describe brevemente la estructura del proyecto:
 
 9. sí fue el caso de reemplzar, volver a ejecutar toso de nuevo pero borrando la carpeta x:\tmp\kraft-combined-logs que se generó
 
+![alt text](image.png)
+
 
