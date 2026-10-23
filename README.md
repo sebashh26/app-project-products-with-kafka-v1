@@ -33,7 +33,7 @@ Describe brevemente la estructura del proyecto:
 
 ## 🧪 Instalación de kafka:
 - Descargar Binary download Kafka de la página: https://kafka.apache.org/community/downloads/
-- Descomprimir donse se desee e ingrasar hasta donde pueda ver la carpeta bin (no dentro de bin)
+- Descomprimir donde se desee e ingresar hasta que pueda ver la carpeta bin (no dentro de bin)
 - Ejecutar los comandos:
 1. bin\windows\kafka-storage ramdom-uuid: se genero--> Uboc-Zn9RfG7QO_2b1Fedg         -----> crea un identificador del cluster (reemplazar el que te generó en la líena de abajo)
 2. bin\windows\kafka-storage format --standalone -t uuidcluster -c config\server.properties---> bin\windows\kafka-storage format --standalone -t Uboc-Zn9RfG7QO_2b1Fedg -c config\server.properties
@@ -47,7 +47,7 @@ Describe brevemente la estructura del proyecto:
     listeners=PLAINTEXT://0.0.0.0:9092,CONTROLLER://0.0.0.0:9093
     advertised.listeners=PLAINTEXT://host.docker.internal:9092,CONTROLLER://host.docker.internal:9093
 
-9. sí fue el caso de reemplzar, volver a ejecutar toso de nuevo pero borrando la carpeta x:\tmp\kraft-combined-logs que se generó
+9. sí fue el caso de reemplazar, volver a ejecutar todo de nuevo pero borrando la carpeta x:\tmp\kraft-combined-logs que se generó
 
 ![alt text](image.png)
 
